@@ -7,9 +7,11 @@ Import:
 
 Clone:
   Your definition:
+  A clone is taking a copy of someones project in its current state to work on in your own environment, but it stays connected to the original working tree as a new branch. 
 
 Fork:
   Your definition:
+  A fork is taking a copy of someones project in its current state to work on in your own environment while still being linked to the originals roots.
 
 Branch:
   Your definition:
@@ -24,3 +26,4 @@ Upstream tracking (git push -u):
   Your definition:
 
 Completed by:
+-Brady Mombourquette
